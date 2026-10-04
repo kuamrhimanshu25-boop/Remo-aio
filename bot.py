@@ -57,7 +57,7 @@ def _patched_stats_update(self, stat_type):
 Stats.update = _patched_stats_update
 
 # ── config ──────────────────────────────────────────────────────────────────
-BOT_TOKEN   = "8827690896:AAFI65Mdh8Gq5Jv6dXJZ1LH9kV7RRnGHvO0"
+BOT_TOKEN   = "8827690896:AAEc2zWdVGjkS1a_9Rgaz7whhOf-aiJ5Gjo"
 OWNER_ID    = 7578158962
 OWNER_TAG   = "@Remo_god7"
 MAX_THREADS = 7
